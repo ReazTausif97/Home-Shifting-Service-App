@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "263882268425",
+    "project_id": "flutter-home-shifting",
+    "storage_bucket": "flutter-home-shifting.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263882268425:android:4e40abf82417ff874ebdd8",
+        "android_client_info": {
+          "package_name": "com.example.new1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "263882268425-rum74s37h0hihi39mtmack0m813puskr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhISWQUTALqAdtvhEcwGeSihUXe535ui0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "263882268425-rum74s37h0hihi39mtmack0m813puskr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
